@@ -29,7 +29,7 @@
 
 ```bash
 git clone https://github.com/afoim/easy_cover.git
-cd easy_cover/easy-cover-next
+cd easy_cover
 ```
 
 2.  **安装依赖**
